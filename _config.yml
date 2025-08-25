@@ -1,0 +1,8 @@
+title: Roobarb
+description: Claudia's personal site
+baseurl: "" # leave empty unless hosting in a subdir
+url: "https://rosewarnedm.github.io"
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
